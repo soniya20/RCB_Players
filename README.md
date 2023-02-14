@@ -12,7 +12,7 @@ Prerequites:
       
 Download this code to your machine.
 
-To execute test.py file run below command:
+To run test.py file run below command:
         
     python3 test.py
     
